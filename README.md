@@ -8,8 +8,9 @@ A dark, moody cyberpunk theme for [Omarchy](https://omarchy.org/): deep midnight
 
 ```bash
 omarchy theme install https://github.com/spacerodent/night-city
-omarchy theme set night-city
 ```
+
+That's it: the install applies the theme and its wallpaper automatically.
 
 ## Palette
 
