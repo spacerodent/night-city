@@ -28,4 +28,4 @@ All colors live in `colors.toml`; Omarchy generates the bar, terminal, and app t
 
 ## Wallpaper
 
-The included wallpaper (`backgrounds/1-night-city.jpg`, 1376×768) was generated with Gemini. Add your own images to `backgrounds/` and cycle with `omarchy theme bg next`.
+The included wallpaper (`backgrounds/1-night-city.jpg`, 1376×768) was generated with Gemini with this prompt: I want an dark office with some neon lighting with a person in a futuristic chair in the middle, computers and monitors all around. The person is "jacked" into all the computers so there are wires coming out of them. The person is in shadows with glowing red eyes. 
